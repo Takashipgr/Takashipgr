@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Takashipgr
 - 👀 I’m interested in mobility optimzation.
-- 🌱 I’m currently learning python to use image tracking and analysis.
+- 🌱 I’m currently learning python to use image tracking and analysis, and then optimization.
 - 💞️ I’m looking to collaborate on expanding business. 
 - ⚡ Fun fact: Snowboard, Japanese tea ceremonial (Yabunouchi)
 
